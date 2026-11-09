@@ -1,0 +1,6 @@
+body { background: #f6f8fc; color: #233149; }
+h1 { font-weight: 700; }
+.content-box { max-width: 960px; padding-bottom: 4rem; }
+.card { border: 1px solid #e7eaf0; border-radius: 14px; box-shadow: 0 2px 6px #1f2a4408; }
+.form-width { max-width: 550px; }
+.btn { border-radius: 9px; }
